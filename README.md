@@ -15,4 +15,4 @@
 
 
 ---
-📫 **How to reach me:** [(https://linkedin.com/in/ghada-miftah-3b124933)]
+📫 **How to reach me:** [https://linkedin.com/in/ghada-miftah-3b124933]
