@@ -10,7 +10,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📂 Top Projects
-- [**PixesPark Restaurant**](https://ghada-hack.github.io/this_portfolio./) - A modern restaurant website built with HTML/CSS.
+- [**PixesPark Restaurant**](https://ghada-hack.github.io/restaurant_website/) - A modern restaurant website built with HTML/CSS.
 - [**Portfolio**](https://ghada-hack.github.io/this_portfolio./) - My personal portfolio built with HTML/CSS/JS.
 
 
